@@ -7,7 +7,8 @@ Predict whether or not customers expressed a positive or negative opinion of a p
 * Download the raw text file containing the data for this project. 
     * You can find the data [here](http://snap.stanford.edu/data/web-Amazon-links.html) under _Clothing_&_Accessories.txt.gz_
     * Please be sure to download the data directly from the page in the link, as opposed to following the link navigating you to an updated version of the data on another page. 
-* Downloading from the page linked to above should give you a file archived in the `.gz` format. Decompress this file using 7zip or any similar program to access the text file containing the data. 
+* Downloading from the page linked to above should give you a file archived in the `.gz` format. 
+    * Decompress this file using 7zip or any similar program to access the text file containing the data. 
 * Make sure the text file containing the data is located inside the folder containing this project. 
 ## Install the requirements
 * Install the requirements for running this project using `pip install -r requirements.txt`. 
