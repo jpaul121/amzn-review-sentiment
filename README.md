@@ -1,4 +1,4 @@
-# <h1>Classifying Amazon Clothing & Accessory Reviews</h1>
+# <h1>Classifying Amazon clothing & accessory reviews</h1>
 Predict whether or not customers expressed a positive or negative opinion of a product based on the wording of their review on Amazon. The text file containing the raw data used in this model is the property of Stanford University's Network Analysis Project and can be found [here](http://snap.stanford.edu/data/web-Amazon-links.html). 
 
 # <h1>Installation</h1>
