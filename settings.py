@@ -2,7 +2,7 @@ import os
 
 
 # data and path info
-RAW_DATA_FILE = "amzn_clothing_reviews.txt"
+RAW_DATA_FILE = "Clothing_&_Accessories.txt"
 PROC_DATA_FILE = "clothing_reviews.csv"
 SEED = 1
 SAMPLE_FRAC = .6
